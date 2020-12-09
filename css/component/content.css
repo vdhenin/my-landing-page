@@ -1,0 +1,68 @@
+.cycle {
+	display: flex;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+
+	width: 500px;
+	height: 600px;
+	
+}
+
+h3 {
+	text-align: center;
+	color: #E6A456;
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+.aggregation {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	align-items: stretch;
+
+}
+
+.risk {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	align-items: stretch;
+}
+
+
+.modelization {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	align-items: stretch;
+}
+
+
+.itsm {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	align-items: stretch;
+}
+
+.textcontent {
+	width: 400px;
+	height: 200px;
+	padding: 20px;
+
+	margin-top: 60px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	border :4mm ridge rgb(230,164,86);
+
+
+}
+
+.img {
+	width: 400px;
+	height: 320px;
+}

@@ -1,0 +1,17 @@
+@import url("component/part1.css");
+@import url("component/title.css");
+@import url("component/banner.css");
+@import url("component/content.css");
+@import url("component/cta.css");
+
+
+h1 {
+	color: #E6A456;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 50px;
+}
+
